@@ -17,7 +17,7 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 
 - Create a GitHub account: https://github.com/join
 - Download GitHub Desktop: https://desktop.github.com/
-- Download Adam text editor
+- Download [atom text editor](https://atom.io/)
 
 ### Resources:
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

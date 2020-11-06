@@ -2,7 +2,7 @@
 
 This repo was created for the 2020 SAFS GSS Worshop:
 
-**Increase your visibility: Crafting professional websites using GitHub**
+**_Increase your visibility: Crafting professional websites using GitHub_**
 
 Presenters: Shelly Trigg, Yaamini Venkataraman, and Sam White
 

@@ -26,7 +26,7 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 
 ### Workshop Outline
 
-I. Intro to GitHub websites
+I. **Intro to GitHub websites**
   - Easy to customize
   - Version control
   - Explore example websites 
@@ -35,14 +35,14 @@ I. Intro to GitHub websites
     - Demo how you can find user repos to view their customizations
     - https://shellytrigg.github.io/
     
-II. Professional websites tips
+II. **Professional websites tips**
   - clean color scheme
   - easy to navigate
   - good visuals
   - easy to find your CV
   - What else?
     
-III. Test GitHub
+III. **Test GitHub**
   - Singing into GitHub website
   - Signing into GitHub Desktop
   - Clone this repo
@@ -52,7 +52,7 @@ III. Test GitHub
   - Clone [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
     - check out folder organizaiton and files
 
-IV. Setting up your beautiful-jekyll
+IV. **Setting up your beautiful-jekyll**
   - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
   - customizing the config.yml file
   - creating about me section
@@ -61,7 +61,7 @@ IV. Setting up your beautiful-jekyll
     - creating some post(s)
   - provide feedback to a peer
 
-V. Conclusion 
+V. **Conclusion**
   - Demo what to do if you want to change website templates
   - Continue discussions in github repo issues section
 

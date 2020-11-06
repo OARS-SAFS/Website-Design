@@ -35,14 +35,33 @@ I. Intro to GitHub websites
     - Demo how you can find user repos to view their customizations
     - https://shellytrigg.github.io/
     
-II. Test GitHub
+II. Professional websites tips
+  - clean color scheme
+  - easy to navigate
+  - good visuals
+  - easy to find your CV
+  - What else?
+    
+III. Test GitHub
   - Singing into GitHub website
   - Signing into GitHub Desktop
+  - Clone this repo
+    - Create a markdown file using your markdown editor
+      - experiment with basic formatting using [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - Save markdown file in the [Playground directory](https://github.com/OARS-SAFS/Website-Design/tree/main/Playground) 
   - Clone [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
     - check out folder organizaiton and files
-    
-III. 
-  
-  
-  
-    - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
+
+IV. Setting up your beautiful-jekyll
+  - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
+  - customizing the config.yml file
+  - creating about me section
+  - creating a publications section
+  - creating up lab notebook section
+    - creating some post(s)
+  - provide feedback to a peer
+
+V. Conclusion 
+  - Demo what to do if you want to change website templates
+  - Continue discussions in github repo issues section
+

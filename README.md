@@ -1,5 +1,7 @@
 # Website-Design
 
+WELCOME!
+
 This repo was created for the 2020 SAFS GSS Worshop:
 
 **_Increase your visibility: Crafting professional websites using GitHub_**
@@ -55,6 +57,7 @@ III. **Test GitHub**
 IV. **Setting up your beautiful-jekyll**
   - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
   - customizing the config.yml file
+  - customizing the index.html file
   - creating about me section
   - creating a publications section
   - creating up lab notebook section

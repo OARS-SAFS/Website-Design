@@ -39,4 +39,10 @@ II. Test GitHub
   - Singing into GitHub website
   - Signing into GitHub Desktop
   - Clone [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
+    - check out folder organizaiton and files
+    
+III. 
+  
+  
+  
     - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)

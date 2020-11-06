@@ -22,6 +22,7 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 ### Resources:
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
+- [color wheel](https://color.adobe.com/create/color-wheel )
 
 ### Questions?: post an issue here: [https://github.com/OARS-SAFS/Website-Design/issues](https://github.com/OARS-SAFS/Website-Design/issues)
 

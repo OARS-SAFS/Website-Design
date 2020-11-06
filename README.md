@@ -34,6 +34,7 @@ I. Intro to GitHub websites
     - https://beautifuljekyll.com/examples/
     - Demo how you can find user repos to view their customizations
     - https://shellytrigg.github.io/
+    
 II. Test GitHub
   - Singing into GitHub website
   - Signing into GitHub Desktop

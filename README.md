@@ -20,3 +20,22 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 
 ### Resources:
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
+
+### Questions?: post an issue here: [https://github.com/OARS-SAFS/Website-Design/issues](https://github.com/OARS-SAFS/Website-Design/issues)
+
+### Workshop Outline
+
+I. Intro to GitHub websites
+  - Easy to customize
+  - Version control
+  - Explore example websites 
+    - https://beautifuljekyll.com/
+    - https://beautifuljekyll.com/examples/
+    - Demo how you can find user repos to view their customizations
+    - https://shellytrigg.github.io/
+II. Test GitHub
+  - Singing into GitHub website
+  - Signing into GitHub Desktop
+  - Clone [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
+    - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)

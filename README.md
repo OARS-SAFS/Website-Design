@@ -36,42 +36,39 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 ### Workshop Outline
 
 I. **Intro to GitHub websites**
+  - Free
   - Easy to customize
   - Version control
+ - Portable
   - Explore example websites 
     - https://beautifuljekyll.com/
     - https://beautifuljekyll.com/examples/
     - Demo how you can find user repos to view their customizations
     - https://shellytrigg.github.io/
-    
-II. **Test GitHub**
+
+II. **Setting up your beautiful-jekyll**
   - Singing into GitHub website
   - Signing into GitHub Desktop
-  - Clone this repo
-    - Create a markdown file using your markdown editor
-      - experiment with basic formatting using [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    - Save markdown file in the [Playground directory](https://github.com/OARS-SAFS/Website-Design/tree/main/Playground) 
-  - Clone [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
-    - check out folder organizaiton and files
-
-III. **Setting up your beautiful-jekyll**
+  - Fork [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
+  - check out folder organizaiton and files
   - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
-  - customizing the config.yml file
-  - customizing the index.html file
-  - creating about me section
-  - creating a publications section
-  - creating up lab notebook section
-    - creating some post(s)
+  - customizing the config.yml file (nav bar, avatar, social media links, color scheme)
+  - customizing the index.html file (main page text and images)
+  - creating markdown files for different sections
+    - "about me" section
+    - publications section
+    - outreach section
+    - blog
   - provide feedback to a peer
 
-IV. **Professional websites tips**
+III. **Professional websites tips**
   - clean color scheme
   - easy to navigate
   - good visuals
   - easy to find your CV
   - What else?
     
-V. **Conclusion**
+IV. **Final Things**
   - Demo what to do if you want to change website templates
   - Continue discussions in github repo issues section
 

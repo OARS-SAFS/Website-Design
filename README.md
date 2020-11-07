@@ -54,8 +54,10 @@ II. **Setting up your beautiful-jekyll**
   - follow [beautiful-jekyll readme](https://github.com/daattali/beautiful-jekyll/blob/master/README.md)
   - customizing the config.yml file (nav bar, avatar, social media links, color scheme)
   - customizing the index.html file (main page text and images)
+  - alter 404 message
   - creating markdown files for different sections
     - "about me" section
+    - add CV (create new folder)
     - publications section
     - outreach section
     - blog
@@ -69,6 +71,7 @@ III. **Professional websites tips**
   - What else?
     
 IV. **Final Things**
+  - Demo how to revert
   - Demo what to do if you want to change website templates
   - Continue discussions in github repo issues section
 

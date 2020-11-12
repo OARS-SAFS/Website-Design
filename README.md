@@ -47,7 +47,7 @@ I. **Intro to GitHub websites**
     - https://shellytrigg.github.io/
 
 II. **Setting up your beautiful-jekyll**
-  - Singing into GitHub website
+  - Signing into GitHub website
   - Signing into GitHub Desktop
   - Fork [beautiful-jekyll repo](https://github.com/daattali/beautiful-jekyll)
   - check out folder organizaiton and files

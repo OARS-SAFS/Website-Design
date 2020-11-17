@@ -24,7 +24,7 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 - [Color Wheel](https://color.adobe.com/create/color-wheel )
 - [beautiful-jekyll Website Template](https://github.com/daattali/beautiful-jekyll)
 - [Lab Notebook Website Template](https://github.com/RobertsLab/resources/wiki/Lab-Notebooks)
-    - [Lab Notebook Website setup tutorial screencase](http://owl.fish.washington.edu/scaphapoda/grace/Github-noteboook.mov)
+    - [Lab Notebook Website setup tutorial screencast](http://owl.fish.washington.edu/scaphapoda/grace/Github-noteboook.mov)
 - [Other Free GitHub Website Templates](https://jekyllthemes.io/free)
 - [Intro to GitHub](https://guides.github.com/activities/hello-world/)
 - [Forking GitHub Projects](https://guides.github.com/activities/forking/)

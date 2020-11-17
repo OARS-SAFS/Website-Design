@@ -75,4 +75,3 @@ IV. **Final Things**
   - Demo what to do if you want to change website templates
   - Continue discussions in github repo issues section
 
-test

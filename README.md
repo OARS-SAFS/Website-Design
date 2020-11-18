@@ -11,7 +11,11 @@ Presenters: Shelly Trigg, Yaamini Venkataraman, and Sam White
 Worshop Description: This hands-on workshop introduces methods for crafting professional websites using the GitHub platform. These products are great ways to publicly showcase and share your research with potential employers and the community at large. The aim is for participants to leave with resources, tools, and a starter website that they can continue customizing into the future. It’s time to give yourself the online presence you and your work deserve!
 
 
-### Recording of Workshop: TBA []()
+### Zoom Recording of Workshop
+
+- Screencast: [https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.mp4](https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.mp4)
+- Audio transcript: [https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.transcript.vtt](https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.transcript.vtt)
+- Chat dialogue: [https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.chat.txt](https://gannet.fish.washington.edu/metacarcinus/GitHub/website-design/20201112-GSS-Website-Design.chat.txt)
 
 ### Prerequisites: Please do the following before the workshop: 
 

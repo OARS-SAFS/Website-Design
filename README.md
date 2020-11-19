@@ -25,7 +25,8 @@ Worshop Description: This hands-on workshop introduces methods for crafting prof
 
 ### Resources:
 - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Color Wheel](https://color.adobe.com/create/color-wheel )
+- [Find color hex codes](https://www.color-hex.com/)
+- [Color Wheel](https://color.adobe.com/create/color-wheel)
 - [beautiful-jekyll Website Template](https://github.com/daattali/beautiful-jekyll)
 - [Lab Notebook Website Template](https://github.com/RobertsLab/resources/wiki/Lab-Notebooks)
     - [Lab Notebook Website setup tutorial screencast](http://owl.fish.washington.edu/scaphapoda/grace/Github-noteboook.mov)
